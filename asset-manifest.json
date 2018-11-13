@@ -1,7 +1,7 @@
 {
   "main.css": "/reims-0918-js-wild-battle/static/css/main.f4db2893.chunk.css",
-  "main.js": "/reims-0918-js-wild-battle/static/js/main.91dc51d9.chunk.js",
-  "main.js.map": "/reims-0918-js-wild-battle/static/js/main.91dc51d9.chunk.js.map",
+  "main.js": "/reims-0918-js-wild-battle/static/js/main.8f2f3f24.chunk.js",
+  "main.js.map": "/reims-0918-js-wild-battle/static/js/main.8f2f3f24.chunk.js.map",
   "static/css/1.add314b6.chunk.css": "/reims-0918-js-wild-battle/static/css/1.add314b6.chunk.css",
   "static/js/1.f8055177.chunk.js": "/reims-0918-js-wild-battle/static/js/1.f8055177.chunk.js",
   "static/js/1.f8055177.chunk.js.map": "/reims-0918-js-wild-battle/static/js/1.f8055177.chunk.js.map",
@@ -15,6 +15,6 @@
   "static/css/main.f4db2893.chunk.css.map": "/reims-0918-js-wild-battle/static/css/main.f4db2893.chunk.css.map",
   "static/css/1.add314b6.chunk.css.map": "/reims-0918-js-wild-battle/static/css/1.add314b6.chunk.css.map",
   "index.html": "/reims-0918-js-wild-battle/index.html",
-  "precache-manifest.ac2a28ad8ac39bf40bcd97e575449bf9.js": "/reims-0918-js-wild-battle/precache-manifest.ac2a28ad8ac39bf40bcd97e575449bf9.js",
+  "precache-manifest.56731b6d7faeafb58526cfaa45645eea.js": "/reims-0918-js-wild-battle/precache-manifest.56731b6d7faeafb58526cfaa45645eea.js",
   "service-worker.js": "/reims-0918-js-wild-battle/service-worker.js"
 }
