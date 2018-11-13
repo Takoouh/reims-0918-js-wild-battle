@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/reims-0918-js-wild-battle/static/media/Clement.eb559b17.png"
   },
   {
-    "revision": "8f2f3f242fd5a330f246",
+    "revision": "cdd887c08c62e34694ca",
     "url": "/reims-0918-js-wild-battle/static/css/main.f4db2893.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/reims-0918-js-wild-battle/static/media/logo.f721e8eb.svg"
   },
   {
-    "revision": "8f2f3f242fd5a330f246",
-    "url": "/reims-0918-js-wild-battle/static/js/main.8f2f3f24.chunk.js"
+    "revision": "cdd887c08c62e34694ca",
+    "url": "/reims-0918-js-wild-battle/static/js/main.cdd887c0.chunk.js"
   },
   {
     "revision": "7dd3a24e22a54242687fb5a49ae75477",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/reims-0918-js-wild-battle/static/css/1.add314b6.chunk.css"
   },
   {
-    "revision": "3e415853cbaec88cf9267a39066011d2",
+    "revision": "ca553598c0621e8b094781fd1eea07cb",
     "url": "/reims-0918-js-wild-battle/index.html"
   }
 ];
