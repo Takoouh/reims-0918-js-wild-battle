@@ -36,19 +36,19 @@ self.__precacheManifest = [
     "url": "/reims-0918-js-wild-battle/static/media/circleBackground.61c8ea6d.svg"
   },
   {
-    "revision": "40f5cf89f1b6563fbdbb510f39f6436f",
-    "url": "/reims-0918-js-wild-battle/static/media/fight.40f5cf89.png"
-  },
-  {
     "revision": "050f56ddb5df4ac6436497c102e58fe1",
     "url": "/reims-0918-js-wild-battle/static/media/stats.050f56dd.png"
+  },
+  {
+    "revision": "40f5cf89f1b6563fbdbb510f39f6436f",
+    "url": "/reims-0918-js-wild-battle/static/media/fight.40f5cf89.png"
   },
   {
     "revision": "f8055177c675e1844068",
     "url": "/reims-0918-js-wild-battle/static/css/1.add314b6.chunk.css"
   },
   {
-    "revision": "0bbdb4c263a1f11368ac731b7d823b8c",
+    "revision": "e16cf80a74cd28df812e760c11f0c83d",
     "url": "/reims-0918-js-wild-battle/index.html"
   }
 ];
